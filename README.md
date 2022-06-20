@@ -1,5 +1,6 @@
 # Livro de receitas
 
-ola, livro de receitas
+Ola, livro de receitas
 
-- carne
+- Carne
+- Refrigerantes
